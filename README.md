@@ -1,21 +1,22 @@
 # Hi there, I'm Saeed 👋
 
 Welcome to my GitHub profile! I'm passionate about building practical software solutions, learning modern technologies, and creating systems that solve real-world problems.
-
 ## 🚀 About Me
 
-I'm a junior web and software developer with a strong interest in full-stack development, database-driven applications, and custom software systems. I enjoy building web applications using Django, React, JavaScript, HTML, CSS, Java, and Python.
+I'm a junior web and software developer with an academic background in Computer Science and Information and Communication Technology. I hold a Diploma in Computer Science from Kano State Polytechnic and a B.Sc. in Information and Communication Technology from Northwest University, Kano.
 
-I am currently improving my skills in software engineering, backend development, frontend design, API integration, and real-world project development. When I'm not coding, I enjoy reading, learning new things, sports activities, and exploring history.
+I enjoy building practical web applications and custom software systems using Django, React, JavaScript, Python, Java, PHP, HTML, CSS, and database technologies. I am currently improving my skills in software engineering, backend development, frontend design, API integration, and real-world project development.
+
+When I'm not coding, I enjoy reading, learning new things, sports activities, and exploring history.
 
 ## 💼 Professional Background
 
-- 🎓 Computer Science student / graduate with practical experience in software development
-- 💻 Experience building web-based systems using Django, React, JavaScript, Python, Java, HTML, and CSS
+- 🎓 Diploma in Computer Science from Kano State Polytechnic
+- 🎓 B.Sc. in Information and Communication Technology from Northwest University, Kano
+- 💻 Experience building web-based systems using Django, React, JavaScript, Python, Java, HTML, CSS, PHP, and databases
 - 🌟 Specialized in full-stack web development, database management, system documentation, and custom software solutions
 - 📊 Intermediate knowledge of data analysis and database-driven applications
 - 🚀 Interested in scalable, secure, and user-friendly software systems
-
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, Python, Java, HTML, CSS, SQL  
